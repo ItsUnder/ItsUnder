@@ -1,4 +1,4 @@
-![image](https://github.com/ItsUnder/ItsUnder/assets/101993538/5c7d4f7a-35df-4ab3-a08f-1e01a9999f7f)## Hello there! My real name is Matheus Mariano
+## Hello there! My real name is Matheus Mariano
 <div align="center">
   <a href="https://github.com/ItsUnder">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsUnder&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
