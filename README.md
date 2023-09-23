@@ -14,7 +14,6 @@
 ##
 
 <div>
-  <a text="ItsUnder"><img src="https://i.pinimg.com/originals/03/b0/c8/03b0c88adcb772a4738d684488e5fc45.png" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCMK9D7s2CrYtUZak33IwRKA/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="mailto:matheusmarianoe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/profiles/76561198219310284/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
