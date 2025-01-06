@@ -1,4 +1,4 @@
-## Hello there! My real name is Matheus Mariano
+## Olá! Sou um programador novato que procura melhorar a cada dia, aqui você encontra alguns dos meus pequenos projetos!
 <div align="center">
   <a href="https://github.com/ItsUnder">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsUnder&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
