@@ -8,7 +8,6 @@
   <img align="center" alt="Under-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Under-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Under-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Under-pic" height="150" style="border-radius:60;" src="https://cdn.discordapp.com/attachments/537287450314276894/956572013420511302/Under3.jpg">
 </div>
 
 ##
