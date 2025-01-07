@@ -9,6 +9,9 @@
 <h2>O CHEFE CRIATIVO 🍳</h2>
 <p>Um blog focado em divulgar receitas de comida, escolha uma categoria e dê uma olhada! Você pode também criar uma conta e fazer um comentário! </p>
 <a href="https://itsunder.github.io/Blog-Culinaria/">ENTRE NO SITE!</a>  <br> <br>
+<h2>STEAM 🎮</h2>
+<p>Este projeto é uma recriação da página inicial e da página de apresentação de um jogo no site da Steam, uma plataforma de venda de jogos digitais. Foi desenvolvido no Figma, utilizando exclusivamente as ferramentas da plataforma. As imagens ilustrativas dos jogos foram incluídas para a apresentação do site, mas não são de minha autoria.  </p>
+<a href="https://www.figma.com/proto/dUwk2Tc9bbhkQ5ns9jwTbd/Steam-Website-Recreation?t=s53zJT9ISfdt3cCG-1&node-id=1-8">ENTRE NO SITE!</a>  <br> <br>
 <br>
 <div align="center">
   <a href="https://github.com/ItsUnder">
