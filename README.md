@@ -1,9 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Oswald:wght@200..700&family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
-
-<h1 >Olá! Sou um programador novato que procura melhorar a cada dia, aqui você encontra alguns dos meus pequenos projetos! </h1><br>
+<h1 >Olá! Sou um programador novato que procura melhorar a cada dia, aqui você encontra alguns dos meus pequenos projetos! </h1>
 <p>Se você tem interesse de olhar meus projetos, abaixo deixarei os meus favoritos:</p> <br>
-<a>MENTALISTA</a> <br>
-<a>MUSICA.IA</a>
+<h2>MENTALISTA 🧠</h2>
+<p>Um jogo onde você precisa acertar qual número o programa escolheu, ele te dá algumas dicas para descobrir o número, mas cuidado, você tem chance limitadas! (Feito para um projeto da ALURA)</p>
+<a href="https://itsunder.github.io/Mentalista/">ENTRE NO SITE!</a> <br> <br>
+<h2>MUSIQUE.IA 🎵</h2>
+<p>Um site em que você consegue recomendações de músicas a partir de um algoritmo que avalia baseado nas suas respostas de sua idade, sentimentos, local e outros!  (Feito para um projeto escolar) </p>
+<a href="https://itsunder.github.io/Musique.IA/">ENTRE NO SITE!</a> <br> <br>
+<h2>O CHEFE CRIATIVO 🍳</h2>
+<p>Um blog focado em divulgar receitas de comida, escolha uma categoria e dê uma olhada! Você pode também criar uma conta e fazer um comentário! (Feito para um projeto escolar) </p>
+<a href="https://itsunder.github.io/Blog-Culinaria/">ENTRE NO SITE!</a>  <br> <br>
 <div align="center">
   <a href="https://github.com/ItsUnder">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsUnder&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
