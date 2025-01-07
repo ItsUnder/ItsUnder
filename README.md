@@ -1,4 +1,7 @@
-## Olá! Sou um programador novato que procura melhorar a cada dia, aqui você encontra alguns dos meus pequenos projetos!
+## Olá! Sou um programador novato que procura melhorar a cada dia, aqui você encontra alguns dos meus pequenos projetos! <br>
+<p>Se você tem interesse de olhar meus projetos, abaixo deixarei os meus favoritos:</p> <br>
+<a>Mentalista</a> <br>
+<a>Musica.IA</a>
 <div align="center">
   <a href="https://github.com/ItsUnder">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsUnder&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
