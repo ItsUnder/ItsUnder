@@ -1,26 +1,9 @@
-## Olá! Sou um programador novato que procura melhorar a cada dia, aqui você encontra alguns dos meus pequenos projetos! <br>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Oswald:wght@200..700&family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
-        h1 {
-        font-family:"Inconsolata", serif;
-        font-optical-sizing: auto;
-        font-weight: 600;
-        font-style: normal;
-}
-    </style>
-    <title>Document</title>
-</head>
-<body>
-<h1>Olá! Sou um programador novato que procura melhorar a cada dia, aqui você encontra alguns dos meus pequenos projetos! </h1><br>
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Oswald:wght@200..700&family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+
+<h1 >Olá! Sou um programador novato que procura melhorar a cada dia, aqui você encontra alguns dos meus pequenos projetos! </h1><br>
 <p>Se você tem interesse de olhar meus projetos, abaixo deixarei os meus favoritos:</p> <br>
 <a>MENTALISTA</a> <br>
 <a>MUSICA.IA</a>
-    
-</body>
-</html>
-<p>Se você tem interesse de olhar meus projetos, abaixo deixarei os meus favoritos:</p> <br>
-<a>Mentalista</a> <br>
-<a>Musica.IA</a>
 <div align="center">
   <a href="https://github.com/ItsUnder">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsUnder&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
