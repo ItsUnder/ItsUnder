@@ -31,5 +31,5 @@ Apaixonado por tecnologia e sempre buscando aprender algo novo 🚀
 
 <ul>
   <li>Evoluir como desenvolvedor</li>
-  <li>Construir projetos reais</li>
+  <li>Iniciar minha carreira profissional na área de desenvolvimento de sistemas e software</li>
 </ul>
