@@ -13,7 +13,6 @@ Apaixonado por tecnologia e sempre buscando aprender algo novo 🚀
 <ul>
   <li>JavaScript</li>
   <li>C</li>
-  <li>Java</li>
 </ul>
 
 ---
