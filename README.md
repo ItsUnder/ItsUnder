@@ -23,6 +23,7 @@ Apaixonado por tecnologia e sempre buscando aprender algo novo 🚀
 <ul>
   <li>Python</li>
   <li>PHP</li>
+  <li>C++</li>
 </ul>
 
 ---
